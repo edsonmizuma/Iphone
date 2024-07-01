@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9676b18-112d-49da-8539-582285a80298" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iphone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aparelho/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesAparelho/aparelhoTelefonico/AparelhoTelefonico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesAparelho/atender/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesAparelho/atender/Atender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesAparelho/iniciarCorreioVoz/CorreioVoz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesAparelho/iniciarCorreioVoz/VoiceMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesAparelho/ligar/Call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesAparelho/ligar/Ligar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMusicais/pausar/Pausar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMusicais/pausar/Stop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMusicais/reprodutorMusical/ReprodutorMusical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMusicais/selecionarMusica/SelecionarMusica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMusicais/selecionarMusica/SelectMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMusicais/tocar/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMusicais/tocar/Tocar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/internet/adicionarPagina/AddPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/internet/adicionarPagina/AdicionarPagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/internet/atualizarPagina/AtualizarPagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/internet/atualizarPagina/RefreshPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/internet/browser/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/internet/exibirPagina/ExibirPagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/internet/exibirPagina/ShowPage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2iWbThGir1wRWYu787wgKRqHTSa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Celular.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dio-intellij/Iphone/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9676b18-112d-49da-8539-582285a80298" name="Changes" comment="" />
+      <created>1719609293107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719609293107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
